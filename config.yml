@@ -37,17 +37,16 @@ params:
   shortDateFormat: Jan 2 — 15:04 UTC
   down: "#e60000"
   systems:
-    - name: Gateway
-      category: North Coast
-    - name: Backup Gateway
-      category: North Coast
-    - name: API
-      description: The guts of the application.
-      category: Uncategorized
-    - name: Media Proxy
-      description: This is the service responsible for serving images, audio, and
-        video. It is reliant on our CDN.
-      category: Uncategorized
+    - name: CynderHost Website
+      category: Core Services
+      description: CynderHost's Main Website and Client Area (cynderhost.com)
+    - name: API (api.cynderhost.com)
+      category: Core Services
+    - name: CDN (StackPath)
+      category: Core Services
+    - name: Email Cluster
+      category: Core Services
+      description: Outbound email delivery infrastructure and relays
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#001f3e"
   enableLastMod: true
