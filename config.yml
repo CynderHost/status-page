@@ -56,6 +56,8 @@ params:
       category: Shared Hosting
     - name: DNS 3 (ns3.cynderhost.com)
       category: Shared Hosting
+    - name: Email Panel
+      category: High Performance Hosting
     - name: Proton Node
       category: High Performance Hosting
       description: proton.cynderhost.com
