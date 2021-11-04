@@ -47,6 +47,26 @@ params:
     - name: Email Cluster
       category: Core Services
       description: Outbound email delivery infrastructure and relays
+    - name: Gravity Node
+      category: Shared Hosting
+      description: gravity.cynderhost-server.com
+    - name: DNS 1 (ns1.cynderhost.com)
+      category: Shared Hosting
+    - name: DNS 2 (ns2.cynderhost.com)
+      category: Shared Hosting
+    - name: DNS 3 (ns3.cynderhost.com)
+      category: Shared Hosting
+    - name: Proton Node
+      category: High Performance Hosting
+      description: proton.cynderhost.com
+    - name: Neutron Node
+      category: High Performance Hosting
+    - name: DNS 1 (hp1.cynderhost.com)
+      category: High Performance Hosting
+    - name: DNS 2 (hp2.cynderhost.com)
+      category: High Performance Hosting
+    - name: DNS 3 (hp3.cynderhost.com)
+      category: High Performance Hosting
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#001f3e"
   enableLastMod: true
