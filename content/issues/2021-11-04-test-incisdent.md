@@ -2,7 +2,7 @@
 section: issue
 title: Test Incisdent
 date: 2021-11-04T15:43:50.727Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 resolvedWhen: 2021-11-04T15:43:50.735Z
