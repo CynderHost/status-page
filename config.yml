@@ -76,9 +76,7 @@ params:
   logo: /img/group-125.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
-  customTabs:
-    - name: Main Website
-      link: https://cynderhost.com
+  customTabs: []
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
