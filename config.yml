@@ -56,8 +56,6 @@ params:
       category: Shared Hosting
     - name: DNS 3 (ns3.cynderhost.com)
       category: Shared Hosting
-    - name: Email Panel
-      category: High Performance Hosting
     - name: Proton Node
       category: High Performance Hosting
       description: proton.cynderhost.com
@@ -69,6 +67,8 @@ params:
       category: High Performance Hosting
     - name: DNS 3 (hp3.cynderhost.com)
       category: High Performance Hosting
+    - name: Email Panel
+      category: High Performance Hosting
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#001f3e"
   enableLastMod: true
@@ -76,6 +76,9 @@ params:
   logo: /img/group-125.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
+  customTabs:
+    - name: Main Website
+      link: https://cynderhost.com
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
