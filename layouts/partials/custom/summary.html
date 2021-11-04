@@ -1,0 +1,50 @@
+<div class="category category--open category--titled" id="cdn-response-time">
+      
+      <div class="bold padding clicky category__head" onclick="toggleCategoryHead(this)" data-status="">
+        <span class="hide-without-js">
+          <span class="category__closed-marker">►</span>
+          <span class="category__open-marker">✕</span>
+        </span>
+
+      <b>CDN Response Time</b>
+      <span class="category-status"></span>
+  </div>
+      <div class="components" style="border-bottom: 2px solid #ddd;">    
+      
+      <iframe onload="" frameborder="0" scrolling="no" src="https://chart-embed.service.newrelic.com/herald/5a93ad20-a5e8-4516-9c81-6fb2747f6641?height=290px&amp;timepicker=false" id="nrgraph" style="background: white; border-radius: 5px; height: 323px; width: 100%; overflow: hidden; padding: 0px 10px;"></iframe></div> 
+    
+      <script>
+        
+        thisCategory = document.currentScript.parentNode 
+
+        componentsOfThisCategory = thisCategory.querySelectorAll('.component')
+
+        var highlestLevelStatus = '';
+
+        function checkStatus(element) {
+          var status = element.getAttribute('data-status');
+
+          if (status === 'down') {
+            highlestLevelStatus = 'down'
+          } else if (status === 'disrupted' && highlestLevelStatus !== 'down') {
+            highlestLevelStatus = 'disrupted'
+          } else if (status === 'notice' && highlestLevelStatus !== 'down' && highlestLevelStatus !== 'disrupted') {
+            highlestLevelStatus = 'notice'
+          }
+        }
+
+        componentsOfThisCategory.forEach(element => checkStatus(element));
+ 
+        var highlestLevelStatusReadable = highlestLevelStatus;
+
+        if (highlestLevelStatus === 'ok') { highlestLevelStatusReadable = 'Operational' } 
+        if (highlestLevelStatus === 'notice') { highlestLevelStatusReadable = 'Maintenance' } 
+        if (highlestLevelStatus === 'dsirupted') { highlestLevelStatusReadable = 'Disrupted' } 
+        if (highlestLevelStatus === 'down') { highlestLevelStatusReadable = 'Down' } 
+
+        if (thisCategory.classList.contains('category--titled')) {
+          thisCategory.querySelector('.category__head').setAttribute('data-status', highlestLevelStatus);
+          thisCategory.querySelector('.category-status').innerHTML = highlestLevelStatusReadable;
+        }
+      </script>
+    </div>
