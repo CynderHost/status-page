@@ -52,7 +52,7 @@ params:
   brand: "#001f3e"
   enableLastMod: true
   headerTextColor: white
-  logo: logo.png
+  logo: https://cynderhost.com/brand/cynderhost_logo_transparent_white.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: true
