@@ -73,7 +73,7 @@ params:
   brand: "#001f3e"
   enableLastMod: true
   headerTextColor: white
-  logo: /img/group-125.png
+  logo: /img/group-125.svg
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: true
