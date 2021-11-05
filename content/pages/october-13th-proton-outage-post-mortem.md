@@ -2,7 +2,7 @@
 title: October 13th Proton Outage Post Mortem
 draft: false
 ---
-## October 13th Proton Outage Post Mortem
+## **October 13th Proton Outage Post Mortem**
 
 At 00:45 AM PST, our team responded to multiple alerts indicating elevated backend error rates. After triaging the incident, we isolated the issue to a problem with Apache (HTTPD) failing and causing backend unreachability, and subsequently, 5XX errors.
 
