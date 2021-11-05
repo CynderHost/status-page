@@ -2,6 +2,8 @@
 title: October 13th Proton Outage Post Mortem
 draft: false
 ---
+## October 13th Proton Outage Post Mortem
+
 At 00:45 AM PST, our team responded to multiple alerts indicating elevated backend error rates. After triaging the incident, we isolated the issue to a problem with Apache (HTTPD) failing and causing backend unreachability, and subsequently, 5XX errors.
 
 Upon further investigation, we identified the root cause of the issue as a WAF rule channel vendor timing out on HTTPD startup, causing the server to be killed before starting up. One of our WAF rules vendors hosts their rules feed on OVH's network, which experienced a global backbone failure at the time and brought their entire network offline. Our team disabled the rulesets in question and brought the server online.
