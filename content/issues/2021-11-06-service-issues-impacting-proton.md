@@ -1,7 +1,7 @@
 ---
 section: issue
 title: Service Issue Impacting Proton
-date: 2021-11-06T21:45:44.253Z
+date: 2021-11-06T21:46:01.857Z
 resolved: false
 draft: false
 informational: false
