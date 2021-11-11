@@ -22,3 +22,5 @@ severity: disrupted
 *Update* - (4:27 PM PST) We are continuing to work towards a full resolution - the cause of this outage is an issue affecting multiple upstream carriers. More updates will be provided shortly - thank you for your patience. 
 
 *Update* - (4:47 PM PST) At this time we have no further information to provide - however, rest assured we're all hands on deck in continuing to resolve all issues ASAP. 
+
+*Recovering* - (4:57 PM PST) We're starting to see a full recovery now. We estimate everything will be working as expected in 1-3 minutes. Thank you for your patience. 
