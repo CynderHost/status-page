@@ -5,10 +5,10 @@ date: 2021-11-10T23:32:32.028Z
 resolved: true
 draft: false
 informational: false
-resolvedWhen: 
+resolvedWhen: 2021-11-11T00:59:08.865Z
 affected:
   - Proton Node
-  - CynderHost Website 
+  - CynderHost Website
 severity: disrupted
 ---
 *Investigating* - We are investigating a potential issue that might affect the availability of one our of services. We are sorry for any inconvenience this may cause you. This incident post will be updated once we have more information, and rest assured we wlll be working towards a resolution ASAP. Please reach out to support@cynderhost.com with any questions or concerns
