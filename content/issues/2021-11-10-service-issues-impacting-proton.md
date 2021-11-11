@@ -2,7 +2,7 @@
 section: issue
 title: Service Issue Impacting Proton
 date: 2021-11-10T23:32:32.028Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 resolvedWhen: 
@@ -24,3 +24,5 @@ severity: disrupted
 *Update* - (4:47 PM PST) At this time we have no further information to provide - however, rest assured we're all hands on deck in continuing to resolve all issues ASAP. 
 
 *Recovering* - (4:57 PM PST) We're starting to see a full recovery now. We estimate everything will be working as expected in 1-3 minutes. Thank you for your patience. 
+
+*Resolved* - At this time, we're marking this incident as resolved as all monitors have returned to normal. We apologize once again for any disruption to your business - we take this very seriously and rest assured we'll be making sure this does not happen again. Please reach out with any questions. A post mortem will be published and posted here once avaliable. 
