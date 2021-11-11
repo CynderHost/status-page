@@ -18,3 +18,5 @@ severity: disrupted
 *Update* - We are continuing to work towards a resolution- we thank you for your patience 
 
 *Update* - We are continuing to resolve the issues impacting Proton - we expect an ETA of 15-30 minutes at most.
+
+*update* - (4:27 PM PST) We are continuing to work towards a full resolution - the cause of this outage is an issue affecting multiple upstream carriers. More updates will be provided shortly - thank you for your patience. 
