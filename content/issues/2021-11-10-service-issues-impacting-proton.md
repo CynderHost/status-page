@@ -16,3 +16,5 @@ severity: disrupted
 *Update* - We have isolated the issue and are working on a resolution.
 
 *Update* - We are continuing to work towards a resolution- we thank you for your patience 
+
+*Update* - We are continuing to resolve the issues impacting Proton - we expect an ETA of 15-30 minutes at most.
