@@ -26,3 +26,5 @@ severity: disrupted
 *Recovering* - (4:57 PM PST) We're starting to see a full recovery now. We estimate everything will be working as expected in 1-3 minutes. Thank you for your patience. 
 
 *Resolved* - At this time, we're marking this incident as resolved as all monitors have returned to normal. We apologize once again for any disruption to your business - we take this very seriously and rest assured we'll be making sure this does not happen again. Please reach out with any questions. A post mortem will be published and posted here once avaliable. 
+
+*Post Mortem -* We are publishing a interim Post Mortem for the issue, found here: <https://status.cynderhost.com/pages/november-10th-proton-outage-post-mortem/>[](https://status.cynderhost.com/pages/october-13th-proton-outage-post-mortem/)
