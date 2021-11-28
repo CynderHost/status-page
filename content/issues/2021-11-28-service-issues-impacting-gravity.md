@@ -5,7 +5,7 @@ date: 2021-11-28T09:11:38.143Z
 resolved: true
 draft: false
 informational: false
-resolvedWhen: 
+resolvedWhen: 2021-11-28T09:16:00.000Z
 affected:
   - Gravity Node
 severity: disrupted
