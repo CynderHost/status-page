@@ -2,7 +2,7 @@
 section: issue
 title: API Errors
 date: 2021-11-29T21:17:59.242Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 resolvedWhen: 2021-11-29T21:17:59.263Z
