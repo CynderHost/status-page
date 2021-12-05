@@ -2,7 +2,7 @@
 section: issue
 title: WAF Maintenance
 date: 2021-11-26T20:03:43.747Z
-resolved: false
+resolved: true
 draft: false
 informational: true
 resolvedWhen: 2021-11-26T20:03:43.757Z
