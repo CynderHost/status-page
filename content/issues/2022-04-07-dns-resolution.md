@@ -7,7 +7,9 @@ draft: false
 informational: false
 resolvedWhen: 2022-04-07T03:38:27.283Z
 affected:
-  - Proton Node
+  - DNS 1 (hp1.cynderhost.com)
+  - DNS 2 (hp2.cynderhost.com)
+  - DNS 3 (hp3.cynderhost.com)
 severity: disrupted
 ---
 *Investigating* - We are investigating a potential issue that might affect the uptime of one our of services. We are sorry for any inconvenience this may cause you. This incident post will be updated once we have more information.
