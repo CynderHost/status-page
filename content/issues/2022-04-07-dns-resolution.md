@@ -2,7 +2,7 @@
 section: issue
 title: DNS Resolution
 date: 2022-04-07T03:38:27.275Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 resolvedWhen: 2022-04-08T21:38:27.283Z
