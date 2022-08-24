@@ -15,3 +15,5 @@ severity: disrupted
 *Mitigating -* We are currently working on an resolution and will have another update shortly. 
 
 *Mitigating -* We still working on resolving the issues impacting Proton and expect to have further updates in 10-20 minutes. Thank you for your patience.
+
+*Restored -* At this time, service has been restored. We apologize for the inconvience and will have further details shortly.
