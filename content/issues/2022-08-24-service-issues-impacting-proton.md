@@ -5,7 +5,7 @@ date: 2022-08-24T22:58:00.282Z
 resolved: true
 draft: false
 informational: false
-resolvedWhen: null
+resolvedWhen: 2022-08-24T23:25:00.000Z
 affected:
   - Proton Node
 severity: disrupted
