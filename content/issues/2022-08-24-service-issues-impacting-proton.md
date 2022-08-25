@@ -2,7 +2,7 @@
 section: issue
 title: Service Issue Impacting Proton
 date: 2022-08-24T22:58:00.282Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 resolvedWhen: null
