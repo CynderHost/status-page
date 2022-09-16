@@ -5,7 +5,7 @@ date: 2022-04-07T03:38:27.275Z
 resolved: true
 draft: false
 informational: false
-resolvedWhen: 2022-04-08T21:38:27.283Z
+resolvedWhen: 2022-04-07T03:38:27.283Z
 affected:
   - DNS 1 (hp1.cynderhost.com)
   - DNS 2 (hp2.cynderhost.com)
