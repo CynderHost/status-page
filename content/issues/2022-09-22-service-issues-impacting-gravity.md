@@ -2,10 +2,10 @@
 section: issue
 title: Service Issue Impacting Gravity
 date: 2022-09-22T11:52:57.037Z
-resolved: false
+resolved: true
 draft: false
 informational: false
-resolvedWhen: null
+resolvedWhen: 2022-09-22T11:54:00.000Z
 affected:
   - Gravity Node
 severity: disrupted
