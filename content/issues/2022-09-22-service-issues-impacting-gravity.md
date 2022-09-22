@@ -15,3 +15,5 @@ severity: disrupted
 *Mitigating* - We are currently mitigating a DDoS attack and users may experience brief periods of disruption. We apologize for this, and will have this resolved ASAP
 
 *Resolved -* At this time the attack has been mitigated and we are closely monitoring for any recurrence. We once again apologize for any disruption and will have a full post mortem published shortly.
+
+*M﻿itigating -* As of 3:11 PM PST, we are seeing this issue recur and are working on a mitigation ASAP.
