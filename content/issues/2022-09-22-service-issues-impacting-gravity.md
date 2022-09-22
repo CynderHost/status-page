@@ -17,3 +17,5 @@ severity: disrupted
 *Resolved -* At this time the attack has been mitigated and we are closely monitoring for any recurrence. We once again apologize for any disruption and will have a full post mortem published shortly.
 
 *M﻿itigating -* As of 3:11 PM PST, we are seeing this issue recur and are working on a mitigation ASAP.
+
+*M﻿itigated* - We've mitigated a majority of the attack and sites should be working over secure (SSL) for users.
