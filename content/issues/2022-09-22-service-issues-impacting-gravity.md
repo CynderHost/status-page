@@ -19,3 +19,5 @@ severity: disrupted
 *M﻿itigating -* As of 3:11 PM PST, we are seeing this issue recur and are working on a mitigation ASAP.
 
 *M﻿itigated* - We've mitigated a majority of the attack and sites should be working over secure (SSL) for users.
+
+*Resolved -* At this time, we've seen consistent stability for the past few hours. We will continue to monitor as needed. Once again, we apologize for the disruption.
