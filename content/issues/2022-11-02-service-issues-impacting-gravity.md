@@ -2,7 +2,7 @@
 section: issue
 title: Service Issue Impacting Gravity
 date: 2022-11-02T21:57:21.175Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 resolvedWhen: 2022-11-02T22:08:00.000Z
