@@ -10,6 +10,8 @@ affected:
   - Gravity Node
 severity: disrupted
 ---
+*FINALIZING -* We are in the process of finalizing the migration -- no further major disruptions are expected. 
+
 *MIGRATION IN PROGRESS:* Accounts may be briefly listed as "suspended" status while we perform a backend migratino. This should resolve itself very shortly.
 
 *I﻿MPORTANT:* A scheduled backend migration will occur on 12/9 at 12 PM PST to address underlying issues with the root filesystem. There will be minimal impacts on availability and no impact on data integrity. No updates are necessary on your side, though you may express brief periods of fluctuating network latency in the following hours that will recede. 
