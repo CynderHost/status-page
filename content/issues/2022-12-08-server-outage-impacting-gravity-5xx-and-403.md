@@ -10,4 +10,6 @@ affected:
   - Gravity Node
 severity: disrupted
 ---
+*I﻿MPORTANT:* A scheduled backend migration will occur on 12/9 at 9 AM EST to address underlying issues with the root filesystem. There will be minimal impacts on availability and no impact on data integreity. No updates are necessary on your side, though you may express brief periods of fluctuating network latency in the following hours that will recede. 
+
 *Investigating* - We are investigating a potential issue that might affect the uptime of one our of services. We are sorry for any inconvenience this may cause you. This incident post will be updated once we have more information.
