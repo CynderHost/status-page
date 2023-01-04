@@ -83,7 +83,7 @@ params:
   disrupted: "#cc4400"
   notice: "#24478f"
   incidentHistoryFormat: monthly
-  disableIncidentHistory: false
+  disableIncidentHistory: true
   ok: "#008000"
   categories:
     - name: Core Services
