@@ -2,10 +2,10 @@
 section: issue
 title: Network Incident Impacting Gravity
 date: 2023-06-23T06:57:29.629Z
-resolved: false
+resolved: true
 draft: false
 informational: false
-resolvedWhen: 2023-06-23T06:57:29.638Z
+resolvedWhen: 2023-06-23T07:06:29.638Z
 affected:
   - Gravity Node
 severity: down
