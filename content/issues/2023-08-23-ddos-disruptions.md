@@ -10,4 +10,4 @@ affected:
   - Gravity Server Node
 severity: disrupted
 ---
-*Investigating* - We are investigating a potential issue that might affect the uptime of one our of services. We are sorry for any inconvenience this may cause you. This incident post will be updated once we have more information.
+Minor network disruptions may be expected as we work on mitigating some extensive DDoS attacks. 
