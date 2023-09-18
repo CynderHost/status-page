@@ -15,3 +15,5 @@ severity: disrupted
 *﻿Mitigating* - We've isolated the underlying issue and are working on resolving it as soon as possible. 
 
 *﻿Resolving* - We've fixed the underlying issue and sites should be coming up shortly. Thank you for your patience. 
+
+*﻿Resolved* - This issue has been resolved now. 
