@@ -2,7 +2,7 @@
 section: issue
 title: Intermittent Errors on Proton
 date: 2023-09-18T06:13:16.767Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 resolvedWhen: 2023-09-18T06:13:16.772Z
