@@ -2,7 +2,7 @@
 section: issue
 title: Server Issues Impacting Gravity
 date: 2023-09-19T07:28:26.342Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 resolvedWhen: 2023-09-19T07:28:26.350Z
