@@ -22,6 +22,7 @@ severity: down
 
 *Emergency Maintenance Update* - We shouuld have the server up and running in the next 2-3 hours. We apologize again for the delay. 
 
+*﻿Update* - We continue to work on restoring service and in the mean time are all mirroring the data to a separate server to restore service faster. We apologize again -- we wish there were more details and updates to share but rest assured we are all hands on deck working on getting this fixed. We experienced a series of highly improbably hardware failures and are working on repairing and swapping out all affect pieces. 
 
 
 
