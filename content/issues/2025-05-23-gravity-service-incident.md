@@ -20,9 +20,7 @@ severity: down
 
 *Emergency Maintenance Notification* - Technicians are performing targeted emergency maintenance to resolve the power disruption. System diagnostics are underway to verify stability. We regret any inconvenience. 
 
-
-
-
+*Emergency Maintenance Update* - We shouuld have the server up and running in the next 2-3 hours. We apologize again for the delay. 
 
 
 
