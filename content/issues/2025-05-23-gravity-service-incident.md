@@ -2,7 +2,7 @@
 section: issue
 title: Gravity Service Incident
 date: 2025-05-23T08:00:00.000Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 resolvedWhen: 2025-05-23T08:47:59.828Z
